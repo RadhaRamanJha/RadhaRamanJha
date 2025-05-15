@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Radha Raman Jha
 
-🎯 **Data Analyst | Data Enthusiast | Python & SQL Practitioner**  
-📍 India | 💼 Actively seeking opportunities in Data Analytics & Analytics Engineering
+🎯 **Aspiring Data Scientist | Python & SQL Developer | Data Enthusiast**  
+📍 India | 💼 Actively seeking opportunities in Data Science & Data Analytics
 
 ---
 
@@ -9,6 +9,7 @@
 - **Languages**: Python, SQL  
 - **Tools**: Excel, MySQL, Pandas, NumPy  
 - **Data Visualization**: Matplotlib, Seaborn, Power BI (basic)  
+- **ML Libraries**: scikit-learn (in progress), statsmodels  
 - **Workflow**: Git, GitHub, Jupyter Notebook
 
 ---
@@ -18,13 +19,16 @@
   - Data Analytics in Python  
   - Introduction to Database Systems  
   - Programming, Data Structures, and Algorithms using Python  
-- Currently enhancing skills in Machine Learning and dbt (Analytics Engineering)
+- Currently learning:  
+  - Machine Learning  
+  - Data Science Workflow  
+  - dbt (for advanced data modeling)
 
 ---
 
 📈 **Current Focus**  
-Building a strong foundation in data analytics through hands-on projects and structured learning.  
-Creating clean, analysis-ready datasets and deriving actionable insights.
+Developing hands-on data science projects using real-world datasets.  
+Applying statistical analysis, machine learning models, and data visualization to extract insights and support data-driven decisions.
 
 ---
 
@@ -35,4 +39,4 @@ Creating clean, analysis-ready datasets and deriving actionable insights.
 
 ---
 
-📌 *Follow for regular updates on data projects and learning progress!*
+📌 *Follow for updates on data science projects, learning milestones, and insights from my journey into the field!*
