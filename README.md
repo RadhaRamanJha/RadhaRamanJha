@@ -20,9 +20,7 @@
   - Introduction to Database Systems  
   - Programming, Data Structures, and Algorithms using Python  
 - Currently learning:  
-  - Machine Learning  
-  - Data Science Workflow  
-  - dbt (for advanced data modeling)
+  - Machine Learning
 
 ---
 
