@@ -1,16 +1,38 @@
-## Hi there 👋
+### 👋 Hi, I'm Radha Raman Jha
 
-<!--
-**RadhaRamanJha/RadhaRamanJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Data Enthusiast | Python & SQL Practitioner**  
+📍 India | 💼 Actively seeking opportunities in Data Analytics & Analytics Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Technical Skills**  
+- **Languages**: Python, SQL  
+- **Tools**: Excel, MySQL, Pandas, NumPy  
+- **Data Visualization**: Matplotlib, Seaborn, Power BI (basic)  
+- **Workflow**: Git, GitHub, Jupyter Notebook
+
+---
+
+🎓 **Certifications & Learning**  
+- NPTEL Certified in:  
+  - Data Analytics in Python  
+  - Introduction to Database Systems  
+  - Programming, Data Structures, and Algorithms using Python  
+- Currently enhancing skills in Machine Learning and dbt (Analytics Engineering)
+
+---
+
+📈 **Current Focus**  
+Building a strong foundation in data analytics through hands-on projects and structured learning.  
+Creating clean, analysis-ready datasets and deriving actionable insights.
+
+---
+
+📬 **Contact Me**  
+- 📧 [radharamanjha1989@gmail.com](mailto:radharamanjha1989@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/radha-raman-jha-a565a2102)  
+- 💻 [GitHub](https://github.com/RadhaRamanJha)
+
+---
+
+📌 *Follow for regular updates on data projects and learning progress!*
