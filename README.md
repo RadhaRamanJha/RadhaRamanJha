@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Radha Raman Jha
 
-🎯 **Aspiring Data Scientist | Python & SQL Developer | Data Enthusiast**  
+🎯 **Data Analyst at Sprigrer | Python & SQL Developer | Data Enthusiast**  
 📍 India | 💼 Actively seeking opportunities in Data Science & Data Analytics
 
 ---
