@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Radha Raman Jha
 
-🎯 **Data Analyst at Sprigrer | Python & SQL Developer | Data Enthusiast**  
+🎯 **Data Enthusiast| Python & SQL Developer**  
 📍 India | 💼 Actively seeking opportunities in Data Science & Data Analytics
 
 ---
@@ -18,9 +18,9 @@
 - NPTEL Certified in:  
   - Data Analytics in Python  
   - Introduction to Database Systems  
-  - Programming, Data Structures, and Algorithms using Python  
-- Currently learning:  
+  - Programming, Data Structures, and Algorithms using Python
   - Machine Learning
+  - Essential Mathematics for Machine Learning
 
 ---
 
